@@ -3,6 +3,16 @@
 
 ---
 
+## 🏢 Sobre a Instituição
+
+O Projeto CARA faz parte da **Associação Casa Lar**, uma organização comprometida com o desenvolvimento social e a transformação de vidas através da educação e capacitação profissional.
+
+### 🌐 Conheça Mais
+
+Para saber mais sobre nossa instituição, visite: [www.associacaocasalar.com.br](https://www.associacaocasalar.com.br)
+
+---
+
 ## 📋 Sobre o Projeto
 
 O **Projeto CARA** é uma iniciativa social voltada para o desenvolvimento comportamental e profissional de adolescentes, preparando-os para a inserção no mercado de trabalho.
@@ -33,16 +43,6 @@ O projeto está alinhado à **[Lei do Aprendiz (nº 10.097/2000)](https://www.pl
 
 ---
 
-## 🏢 Sobre a Instituição
-
-O Projeto CARA faz parte da **Associação Casa Lar**, uma organização comprometida com o desenvolvimento social e a transformação de vidas através da educação e capacitação profissional.
-
-### 🌐 Conheça Mais
-
-Para saber mais sobre nossa instituição, visite: [www.associacaocasalar.com.br](https://www.associacaocasalar.com.br)
-
----
-
 ## 💻 Sistema de Gerenciamento Escolar (SMS)
 
 Este repositório contém o **SMS CARA** - Sistema de Gerenciamento Escolar desenvolvido especificamente para apoiar as atividades do Projeto CARA.
@@ -55,13 +55,6 @@ Este repositório contém o **SMS CARA** - Sistema de Gerenciamento Escolar dese
 - **Segurança**: Sistema de autenticação e autorização robusto
 - **Performance**: Otimizado para alta performance e escalabilidade
 
-### 🛠️ Tecnologias
-
-- **Frontend**: Next.js 15, React 19, TypeScript
-- **UI/UX**: Tailwind CSS, Radix UI, Lucide Icons
-- **Backend**: Firebase (Firestore, Auth, Storage)
-- **Desenvolvimento**: Jest para testes, ESLint para qualidade de código
-
 ---
 
 ## 🤝 Como Contribuir
@@ -70,7 +63,7 @@ Estamos sempre abertos a contribuições que possam melhorar o projeto e impacta
 
 ### 📞 Contato
 
-Para mais informações sobre o projeto ou oportunidades de colaboração, entre em contato através do [nosso site institucional](https://www.associacaocasalar.com.br).
+Para mais informações sobre o projeto ou oportunidades de colaboração, entre em contato através do nosso site institucional, na aba ["Apoie"](https://www.associacaocasalar.com.br/apoie).
 
 ---
 
